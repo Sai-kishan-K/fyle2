@@ -1,9 +1,6 @@
 .form-popup{
-    display:flex ;
-    justify-content: center;
-    align-items: center;
-    /* margin-top: ;
-    margin-left: 0px; */
+    margin-top: 350px;
+    margin-left: 650px;
     width: 550px;
     height: 562px;
     background: #FFFFFF 0% 0% no-repeat padding-box;
@@ -47,5 +44,5 @@ input[type=text] {
     margin: 8px 0;
     box-sizing: border-box;
     border: none;
-    border-bottom: 2px solid rgb(128, 128, 128);
+    border-bottom: 2px solid rgb(148, 148, 148);
   }
